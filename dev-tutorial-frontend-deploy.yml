@@ -8,7 +8,7 @@ on:
 env:
   REPOSITORY: "phaisdpu/testphias-tutorial-frontend"
   APP_NAME: testphias-tutorial-frontend
-  AZURE_WEB_APP_NAME: app-phaicd-tutorial-frontend-dev-001
+  AZURE_WEB_APP_NAME: app-phaiscd-tutorial-frontend-dev-001
   CONTAINER_REPOSITORY: "acrphiacitutorial001.azurecr.io"
   IMAGE_TAG: "0.0.1-SNAPSHOT"
 
